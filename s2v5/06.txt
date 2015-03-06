@@ -1,0 +1,1 @@
+$(this).append(' <a href="mailto:email@website.com" class="email-text">Email&nbsp;us</a>');

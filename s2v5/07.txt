@@ -1,0 +1,3 @@
+$('.work').on('sticky-end', function() {
+  $('.email-text').remove();
+});

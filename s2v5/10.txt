@@ -1,0 +1,2 @@
+getWidthFrom: '.container',
+responsiveWidth: true

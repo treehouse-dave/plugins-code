@@ -1,0 +1,3 @@
+,
+inDuration: 1000,
+outDuration: 500
