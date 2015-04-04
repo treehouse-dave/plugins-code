@@ -1,2 +1,2 @@
 ,
-autoplaySpeed: 2000,
+autoplaySpeed: 2000
